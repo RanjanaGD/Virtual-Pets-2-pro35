@@ -29,9 +29,7 @@ display(){
 var x=80,y=100;
 
 imageMode(CENTER)
-image(this.image,220,220,70,70);
-//image(this.image,120,220,70,70);
-//image(this.image,320,220,70,70);
+
 
 
 if(this.foodStock!=0){
